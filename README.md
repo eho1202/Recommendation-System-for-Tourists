@@ -3,6 +3,8 @@ Software Engineering Capstone Project for Toronto Metropolitan University 2025
 
 This repo contains the frontend of the capstone project.
 
+Find the backend [here](https://github.com/eho1202/Tourism_Recommendation_System).
+
 ![Image of the website](/images/website.png)
 
 # Getting Started with Create React App
