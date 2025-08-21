@@ -3,6 +3,8 @@ Software Engineering Capstone Project for Toronto Metropolitan University 2025
 
 This repo contains the frontend of the capstone project.
 
+![Image of the website](/images/website.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
